@@ -6,8 +6,9 @@ A simple power usage dashboard
 * Clone this repo
 * Create a python virtual env `python3 -m venv env`
 * Enter virtual env `$ source env/bin/activate `
+* Install the powermodel package locally `$ pip install -e .`
 * Download all dependencies `pip install -r requirements.txt`
-* Start Flask `$ python3 powermodel/app.py`
+* Start Flask `$ cd powermodel;python3 powermodel/app.py`
 
 ## PowermodelUI
 

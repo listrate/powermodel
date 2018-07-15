@@ -6,6 +6,6 @@ setup(name='powermodel',
       url='https://github.com/listrate/powermodel',
       author='listrate',
       author_email='listrate@users.github.com',
-      license='GPLv3',
+      license='MIT',
       packages=['powermodel'],
       zip_safe=False)

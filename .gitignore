@@ -1,0 +1,4 @@
+.vscode/
+env/
+powermodel.egg-info
+__pycache__
